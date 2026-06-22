@@ -1,0 +1,14 @@
+=====================================
+Process Monitoring Report
+Generated: Mon Jun 22 16:09:24 UTC 2026
+=====================================
+
+Top 5 CPU-consuming processes:
+
+    PID USER     %CPU COMMAND
+  12538 abhinay   4.5 process-monitor
+    249 root      0.5 snapd
+      1 root      0.2 systemd
+   1777 root      0.2 systemd-udevd
+    311 root      0.1 containerd
+
