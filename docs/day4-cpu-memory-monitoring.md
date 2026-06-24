@@ -26,3 +26,9 @@ Memory Threshold: 80%
 ## Output Location
 
 monitoring/cpu/reports/
+| Command | Purpose                        |
+| ------- | ------------------------------ |
+| `top`   | Display real-time system usage |
+| `free`  | Show memory usage              |
+| `awk`   | Process and filter text        |
+| `date`  | Generate timestamps            |
