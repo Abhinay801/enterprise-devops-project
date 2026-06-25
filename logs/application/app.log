@@ -1,1 +1,8 @@
 INFO: Application started successfully
+INFO: User login successful
+WARNING: Disk usage reached 75%
+ERROR: Database connection failed
+INFO: Background job started
+CRITICAL: Application crashed
+ERROR: Redis server unavailable
+WARNING: Memory usage exceeded thresholdINFO: Application started successfully

@@ -1,0 +1,19 @@
+=====================================
+Process Monitoring Report
+Generated: Thu Jun 25 17:52:26 UTC 2026
+=====================================
+
+Top 5 CPU-consuming processes:
+
+    PID USER     %CPU COMMAND
+   1100 abhinay   4.3 process-monitor
+    136 root      0.5 snapfuse
+      1 root      0.2 systemd
+    246 root      0.1 snapd
+    289 root      0.1 containerd
+
+
+Memory Usage Summary:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       541Mi       3.1Gi       3.8Mi       224Mi       3.2Gi
+Swap:          1.0Gi          0B       1.0Gi

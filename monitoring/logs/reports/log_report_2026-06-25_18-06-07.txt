@@ -1,0 +1,18 @@
+========================================
+Log Monitoring Report
+Generated: Thu Jun 25 18:06:07 UTC 2026
+========================================
+
+Total ERROR entries   : 2
+Total WARNING entries : 2
+Total CRITICAL entries: 1
+
+Recent Issues:
+
+WARNING: Disk usage reached 75%
+ERROR: Database connection failed
+CRITICAL: Application crashed
+ERROR: Redis server unavailable
+WARNING: Memory usage exceeded thresholdINFO: Application started successfully
+
+ALERT: Critical issues detected!
