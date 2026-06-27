@@ -1,0 +1,23 @@
+=================================================
+Enterprise Server Health Report
+Generated: Sat Jun 27 12:33:38 UTC 2026
+=================================================
+
+Hostname        : DESKTOP-RDCSET2
+Operating System: Ubuntu 24.04.3 LTS
+Uptime          : up 3 minutes
+
+CPU Usage       : 1%
+Memory Usage    : 14%
+Disk Usage      : 1%
+
+Overall Status  : HEALTHY
+
+Top 5 CPU Processes:
+
+    PID USER     %CPU COMMAND
+   1113 abhinay   100 ps
+   1095 abhinay   1.7 server-health-r
+    135 root      1.7 snapfuse
+    240 root      0.3 snapd
+      1 root      0.3 systemd
